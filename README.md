@@ -12,7 +12,9 @@ the layouts are stored in different places on your system.
 ## installation
 
 1. Run `install.sh` as superuser.
-2. Reload keyboard layout: `setxkbmap -layout ca -variant fr`
+2. Reload keyboard layout. Logging out and logging back in should accomplish
+this. Alternatively `setxkbmap -layout ca -variant fr` if you are feeling
+adventurous.
 
 
 ## Symbol mapping

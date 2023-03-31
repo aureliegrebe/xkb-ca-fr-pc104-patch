@@ -8,7 +8,7 @@ Installs patches to X11 keyboard layout files
 where:
     -h  show this help text
     -f  specify layout_file
-	-b  specify bakup file location"
+    -b  specify bakup file location"
 
 key_file=/usr/share/X11/xkb/symbols/ca
 bak_file=$key_file.BAK
