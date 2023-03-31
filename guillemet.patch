@@ -1,0 +1,6 @@
+46,47c46,47
+<     key <AB01>	{ [         z,          Z ]	};
+<     key <AB02>	{ [         x,          X ]	};
+---
+>     key <AB01>	{ [         z,          Z , guillemotleft]	};
+>     key <AB02>	{ [         x,          X , guillemotright]	};

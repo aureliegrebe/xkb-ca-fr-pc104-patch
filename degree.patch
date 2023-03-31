@@ -1,0 +1,4 @@
+34c34
+<     key <AC03>	{ [         d,          D ]	};
+---
+>     key <AC03>	{ [         d,          D , degree]	};
